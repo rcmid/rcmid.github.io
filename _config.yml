@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://rcmid.github.io
+title: Scratch Pad
+tagline: Ideas and thoughts sussed out. 
+description: A place where thoughts and ideas about various topics are brought forth through writing. 
+paginate: 5
