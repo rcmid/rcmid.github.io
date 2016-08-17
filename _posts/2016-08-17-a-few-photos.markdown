@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Few Photos
 layout: post
 tags: [photos, photographs, nature]
